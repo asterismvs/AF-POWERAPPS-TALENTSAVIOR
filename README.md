@@ -1,5 +1,7 @@
 # AF-POWERAPPS-TALENTSAVIOR
 
+- LABORATORIO MAPAS: https://learn.microsoft.com/es-es/power-apps/maker/canvas-apps/how-to/mobile-apps-address-map
+
 ## Conectar orígenes
 - Introducción a Power Apps y Licenciamiento.
 - Crear una «fast-app» con SharePoint.
